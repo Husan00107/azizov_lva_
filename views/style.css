@@ -1,0 +1,78 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #444;
+    overflow: hidden;
+}
+
+nav li {
+    padding: 0 42px;
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+.weapon{
+    display: flex;
+    margin: 20px;
+    box-shadow: 0px 0px 20px #333;
+    clear: both;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+img{
+    width: 200px;
+    height: 80px;
+}
+.ul ul img{
+    width: 200px;
+    height: 80px;
+}
+.xs img{
+    width: 800px;
+    height: 350px;
+}
+.a img{
+    width: 600px;
+    height: 450px;
+}
+.d img{
+    width: 600px;
+    height: 450px;
+}
+.xs img{
+    width: 600px;
+    height: 450px;
+}
